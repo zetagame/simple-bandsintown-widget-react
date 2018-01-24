@@ -1,0 +1,159 @@
+@font-face {
+    font-family: 'Rift';
+    src: url(Rift-Regular.eot);
+    src: url(Rift-Regular.eot?#iefix) format("embedded-opentype"),url(Rift-Regular.woff) format("woff"),url(Rift-Regular.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rift Demi';
+    src: url(Rift-Demi.eot);
+    src: url(Rift-Demi.eot?#iefix) format("embedded-opentype"),url(Rift-Demi.woff) format("woff"),url(Rift-Demi.ttf) format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rift';
+    src: url(Rift-Light.eot);
+    src: url(Rift-Light.eot?#iefix) format("embedded-opentype"),url(Rift-Light.woff) format("woff"),url(Rift-Light.ttf) format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rift';
+    src: url(Rift-MediumItalic.eot);
+    src: url(Rift-MediumItalic.eot?#iefix) format("embedded-opentype"),url(Rift-MediumItalic.woff) format("woff"),url(Rift-MediumItalic.ttf) format("truetype");
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Rift';
+    src: url(Rift-BoldItalic.eot);
+    src: url(Rift-BoldItalic.eot?#iefix) format("embedded-opentype"),url(Rift-BoldItalic.woff) format("woff"),url(Rift-BoldItalic.ttf) format("truetype");
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Rift Soft Demi';
+    src: url(RiftSoft-DemiItalic.eot);
+    src: url(RiftSoft-DemiItalic.eot?#iefix) format("embedded-opentype"),url(RiftSoft-DemiItalic.woff) format("woff"),url(RiftSoft-DemiItalic.ttf) format("truetype");
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Rift Soft';
+    src: url(RiftSoft-LightItalic.eot);
+    src: url(RiftSoft-LightItalic.eot?#iefix) format("embedded-opentype"),url(RiftSoft-LightItalic.woff) format("woff"),url(RiftSoft-LightItalic.ttf) format("truetype");
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Rift Soft Demi';
+    src: url(RiftSoft-Demi.eot);
+    src: url(RiftSoft-Demi.eot?#iefix) format("embedded-opentype"),url(RiftSoft-Demi.woff) format("woff"),url(RiftSoft-Demi.ttf) format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rift Soft';
+    src: url(RiftSoft-Light.eot);
+    src: url(RiftSoft-Light.eot?#iefix) format("embedded-opentype"),url(RiftSoft-Light.woff) format("woff"),url(RiftSoft-Light.ttf) format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rift Soft';
+    src: url(RiftSoft-Italic.eot);
+    src: url(RiftSoft-Italic.eot?#iefix) format("embedded-opentype"),url(RiftSoft-Italic.woff) format("woff"),url(RiftSoft-Italic.ttf) format("truetype");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Rift';
+    src: url(Rift-LightItalic.eot);
+    src: url(Rift-LightItalic.eot?#iefix) format("embedded-opentype"),url(Rift-LightItalic.woff) format("woff"),url(Rift-LightItalic.ttf) format("truetype");
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Rift Soft';
+    src: url(RiftSoft-Regular.eot);
+    src: url(RiftSoft-Regular.eot?#iefix) format("embedded-opentype"),url(RiftSoft-Regular.woff) format("woff"),url(RiftSoft-Regular.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rift Demi';
+    src: url(Rift-DemiItalic.eot);
+    src: url(Rift-DemiItalic.eot?#iefix) format("embedded-opentype"),url(Rift-DemiItalic.woff) format("woff"),url(Rift-DemiItalic.ttf) format("truetype");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Rift';
+    src: url(Rift-Italic.eot);
+    src: url(Rift-Italic.eot?#iefix) format("embedded-opentype"),url(Rift-Italic.woff) format("woff"),url(Rift-Italic.ttf) format("truetype");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Rift Soft';
+    src: url(RiftSoft-BoldItalic.eot);
+    src: url(RiftSoft-BoldItalic.eot?#iefix) format("embedded-opentype"),url(RiftSoft-BoldItalic.woff) format("woff"),url(RiftSoft-BoldItalic.ttf) format("truetype");
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Rift';
+    src: url(Rift-Medium.eot);
+    src: url(Rift-Medium.eot?#iefix) format("embedded-opentype"),url(Rift-Medium.woff) format("woff"),url(Rift-Medium.ttf) format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rift Soft';
+    src: url(RiftSoft-Medium.eot);
+    src: url(RiftSoft-Medium.eot?#iefix) format("embedded-opentype"),url(RiftSoft-Medium.woff) format("woff"),url(RiftSoft-Medium.ttf) format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rift';
+    src: url(Rift-Bold.eot);
+    src: url(Rift-Bold.eot?#iefix) format("embedded-opentype"),url(Rift-Bold.woff) format("woff"),url(Rift-Bold.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rift Soft';
+    src: url(RiftSoft-Bold.eot);
+    src: url(RiftSoft-Bold.eot?#iefix) format("embedded-opentype"),url(RiftSoft-Bold.woff) format("woff"),url(RiftSoft-Bold.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rift Soft';
+    src: url(RiftSoft-MediumItalic.eot);
+    src: url(RiftSoft-MediumItalic.eot?#iefix) format("embedded-opentype"),url(RiftSoft-MediumItalic.woff) format("woff"),url(RiftSoft-MediumItalic.ttf) format("truetype");
+    font-weight: 500;
+    font-style: italic;
+}
