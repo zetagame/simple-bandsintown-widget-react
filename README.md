@@ -4,4 +4,4 @@ Demo: https://www.zackhaighdesign.com/sweaters/
 
 background image (not the animation) by Cheez
 
-TODO: Add bluebird for IE/FF etc (Original project didn't use Promise)
+Added isomorphic fetch for IE support
